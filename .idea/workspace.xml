@@ -1,74 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f3e1378-a7ff-4082-b6f8-acce35ee25cb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Portfolio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deploy/crontab.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deploy/gunicorn.conf.py.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deploy/local_settings.py.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deploy/nginx.conf.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deploy/supervisor.conf.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fabfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/blog/blog_post_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/blog/blog_post_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/blog/includes/filter_panel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/email/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/email/base.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/email/comment_notification.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/email/comment_notification.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/email/form_response.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/email/form_response.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/email/form_response_copies.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/email/form_response_copies.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/errors/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/errors/500.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/generic/comments.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/generic/includes/comment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/generic/includes/comments.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/generic/includes/disqus_comments.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/generic/includes/disqus_counts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/generic/includes/disqus_sso.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/generic/includes/rating.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/homepage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/includes/editable_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/includes/editable_loader.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/includes/editable_toolbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/includes/footer_scripts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/includes/form_errors.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/includes/form_fields.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/includes/language_selector.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/includes/pagination.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/includes/search_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/includes/user_panel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/pages/form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/pages/gallery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/pages/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/pages/menus/admin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/pages/menus/breadcrumb.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/pages/menus/dropdown.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/pages/menus/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/pages/menus/footer_tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/pages/menus/mobile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/pages/menus/primary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/pages/menus/tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/pages/page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/pages/richtextpage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/search_results.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/twitter/tweets.html" afterDir="false" />
-    </list>
+    <list default="true" id="3f3e1378-a7ff-4082-b6f8-acce35ee25cb" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -320,7 +253,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25416666" />
       <window_info anchor="bottom" id="TODO" order="6" />
